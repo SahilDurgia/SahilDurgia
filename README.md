@@ -1,3 +1,4 @@
+<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Sahil Durgia</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
