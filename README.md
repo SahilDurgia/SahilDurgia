@@ -1,4 +1,4 @@
-![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkzYzliYmYwZjE3NDZlYjk2ODc4YzVlMDc3NDRiZWM4NzZkZjA5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2Rc2BC6AwdOncuw6Sf/giphy.gif)
+
 
 <h1 align="center">Hi 👋, I'm Sahil Durgia</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahildurgia&show_icons=true&locale=en&layout=compact" alt="sahildurgia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahildurgia&show_icons=true&locale=en" alt="sahildurgia" /></p>
+
+<img align="center" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkzYzliYmYwZjE3NDZlYjk2ODc4YzVlMDc3NDRiZWM4NzZkZjA5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2Rc2BC6AwdOncuw6Sf/giphy.gif"/>
