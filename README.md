@@ -1,7 +1,8 @@
-<iframe src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">via GIPHY</a></p>
+![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjkzYzliYmYwZjE3NDZlYjk2ODc4YzVlMDc3NDRiZWM4NzZkZjA5MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2Rc2BC6AwdOncuw6Sf/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Sahil Durgia</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qfkh3ir1stbcmz82y0yqt5fyru3rkkr76drk98hp&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahildurgia&label=Profile%20views&color=0e75b6&style=flat" alt="sahildurgia" /> </p>
 
 - 🌱 I’m currently learning **Mern Stack, Java**
